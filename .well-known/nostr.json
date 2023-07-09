@@ -8,5 +8,6 @@
             "wss://nostr.wine",
             "wss://relay.nostr.nu",
             "wss://relay.damus.io"
+            "wss://relay.iris.to"
         ]
 }
