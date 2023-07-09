@@ -8,6 +8,7 @@
             "wss://nostr.wine",
             "wss://relay.nostr.nu",
             "wss://relay.damus.io"
-            "wss://relay.iris.to"
+            "wss://nostr.agner.me"
+            "wss://relay.snort.social"
         ]
 }
