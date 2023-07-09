@@ -7,8 +7,8 @@
             "wss://nos.lol",
             "wss://nostr.wine",
             "wss://relay.nostr.nu",
-            "wss://relay.damus.io"
-            "wss://nostr.agner.me"
+            "wss://relay.damus.io",
+            "wss://nostr.agner.me",
             "wss://relay.snort.social"
         ]
 }
